@@ -6,6 +6,7 @@
 准备一个U盘连接到斐讯N1或者树莓派的USB口，U盘格式为FAT32格式。 
 
 wget https://raw.githubusercontent.com/tinydream96/ha-backup-restore/master/ha_usb_backup.sh
+
 wget https://raw.githubusercontent.com/tinydream96/ha-backup-restore/master/ha_usb_restore.sh
 
 #执行下面命令赋予脚本执行权限
